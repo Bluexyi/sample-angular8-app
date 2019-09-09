@@ -14,6 +14,16 @@ h1{
 	margin-bottom : 100px;
 }
 
+h2{
+	color : #32a1e2; 
+	font-size : 2.5em; 
+	text-align: center; 
+  margin-bottom : 100px;
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 30px;
+}
+
 .conteneurPercept{
   display : flex;
   flex-wrap : wrap;
